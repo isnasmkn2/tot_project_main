@@ -7,6 +7,7 @@ export default function DashboardPage(){
       <Layout title='Dashboard Page'>
         <main>
           <p>Dashboard Page</p>
+          <p>ini dashboard</p>
         </main>
       </Layout>
     </>
